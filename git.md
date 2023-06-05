@@ -78,3 +78,5 @@
   194  git branch
   195  git status
   196  history
+
+This line will create a conflict
